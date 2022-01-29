@@ -1,0 +1,32 @@
+body
+{
+  background-image: linear-gradient(rgb(62, 186, 228),rgb(255, 255, 255));
+}
+
+#explore
+{
+  color: blue;
+  font-size: xx-large;
+}
+
+#Where
+{
+  margin-top: 100;
+  font-size: large;
+}
+input
+{
+  margin-top: 100;
+}
+
+#select
+{
+  margin-top: 500;
+}
+
+#plan
+{
+background-color: rgb(255, 0, 0);
+color: white;
+}
+

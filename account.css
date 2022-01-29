@@ -1,0 +1,41 @@
+body
+{
+  background-image: linear-gradient(rgb(62, 186, 228),rgb(255, 255, 255));
+}
+
+input
+{
+  margin-top: 80;
+}
+
+#sign_up
+{
+    margin-right: 20;
+    height: 50;
+    width: 100;
+    font-size: large;
+    background-color: rgb(0, 255, 242);
+    color: rgb(41, 87, 28);
+}
+
+#cancel
+{
+    margin-right: 20;
+    height: 50;
+    width: 100;
+    font-size: large;
+    background-color: rgb(0, 255, 242);
+    color: rgb(41, 87, 28);
+}
+label
+{
+    margin-right: 10;
+    height: 50;
+    width: 100;
+    font-size: large; 
+}
+#log_in
+{
+color: rebeccapurple;
+font-size: xx-large;
+}

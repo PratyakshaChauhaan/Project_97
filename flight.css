@@ -1,0 +1,36 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: linear-gradient(rgb(62, 186, 228),rgb(255, 255, 255));
+}
+.container
+{
+    position: relative;
+    width: 1200px;
+    height: 1200px;
+    margin: 240px auto;
+    
+}
+.box
+{
+position: relative;
+width: calc(400px - 30px);
+height: calc(300px - 30px);
+background: #ff0;
+float: left;
+margin: 15px;
+box-sizing: border-box;
+overflow: hidden;
+border-radius: 10px;
+}
+img
+{
+    margin-right: 500;
+}
+label
+{
+   font-weight: bold;
+   font-size: larger;
+}
